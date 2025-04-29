@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-peer-to-peer-assessment/static/css/main.6ccd65a8.css",
+    "main.js": "/react-peer-to-peer-assessment/static/js/main.33e5fd09.js",
+    "static/js/496.726e3a6b.chunk.js": "/react-peer-to-peer-assessment/static/js/496.726e3a6b.chunk.js",
+    "index.html": "/react-peer-to-peer-assessment/index.html",
+    "main.6ccd65a8.css.map": "/react-peer-to-peer-assessment/static/css/main.6ccd65a8.css.map",
+    "main.33e5fd09.js.map": "/react-peer-to-peer-assessment/static/js/main.33e5fd09.js.map",
+    "496.726e3a6b.chunk.js.map": "/react-peer-to-peer-assessment/static/js/496.726e3a6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.33e5fd09.js"
+  ]
+}
