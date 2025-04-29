@@ -59,7 +59,7 @@ const Currency = () => {
             type="button"
             onClick={() => setCurrencyHandler("£")}
           >
-            £ Pound
+            £ Pounds
           </button>
         </li>
         <li>
@@ -68,7 +68,7 @@ const Currency = () => {
             type="button"
             onClick={() => setCurrencyHandler("€")}
           >
-            € Euro
+            € Euros
           </button>
         </li>
         <li>
@@ -77,7 +77,7 @@ const Currency = () => {
             type="button"
             onClick={() => setCurrencyHandler("₹")}
           >
-            ₹ Ruppee
+            ₹ Ruppees
           </button>
         </li>
       </ul>

@@ -2,7 +2,7 @@ import { useContext } from "react";
 import { TiDelete } from "react-icons/ti";
 import { AppContext } from "../context/AppContext";
 import { FaPlusCircle, FaMinusCircle } from "react-icons/fa";
-
+import Currency from "./Currency";
 const ExpenseItem = (props) => {
   const { dispatch, currency } = useContext(AppContext);
 

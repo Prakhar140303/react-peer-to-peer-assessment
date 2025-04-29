@@ -20,7 +20,7 @@ const Budget = () => {
       );
     } else {
       if (enteredValue > BUDGET_MAX_VALUE) {
-        alert("Please enter a value less that " + BUDGET_MAX_VALUE);
+        alert("Please enter a value less that of  " + BUDGET_MAX_VALUE);
         return;
       }
 

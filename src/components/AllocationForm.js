@@ -65,7 +65,7 @@ const AllocationForm = () => {
               IT
             </option>
             <option value="Admin" name="admin">
-              Admin
+              ADMIN
             </option>
           </select>
           <div className="input-group-prepend" style={{ marginLeft: "2rem" }}>
